@@ -12,7 +12,9 @@ import json as json
 ch={'Programming with Mosh':'https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s176-c-k-c0x00ffffff-no-rj',
     'Logic First Tamil':'https://yt3.ggpht.com/ytc/AMLnZu-iyk0DAEtQ3ewX34exnecsPSf0DwF-DBqY1RQK=s176-c-k-c0x00ffffff-no-rj',
     'Fireship':'https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s176-c-k-c0x00ffffff-no-rj',
-    'freeCodeCamp.org':'https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s176-c-k-c0x00ffffff-no-rj-mo'
+    'freeCodeCamp.org':'https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s176-c-k-c0x00ffffff-no-rj-mo',
+    'Tutor Joes Stanley':'https://yt3.ggpht.com/MgbkdtBeJKRobFd8hUJtwg05HoYN9imuK4RFlSAf2XobMGfh6SRMuSUKFAZ-0qALW7zpEfbYvA=s176-c-k-c0x00ffffff-no-rj',
+    'Telusko':'https://yt3.ggpht.com/o4MZVi2qdNgx0K7vpEl7DT2PefjROdisZTD7is6TMimF1_DTM49O1ld3iQzTpE5MCj86c-vzav8=s176-c-k-c0x00ffffff-no-rj',
     
     }
     
