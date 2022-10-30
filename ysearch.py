@@ -1,14 +1,20 @@
-from bs4 import BeautifulSoup as bs
-from requests_html import HTMLSession
+from unicodedata import name
+from youtubesearchpython import *
+
+cs=CustomSearch('java',VideoDurationFilter.long,limit=5)
 
 
-url="https://www.youtube.com/results?search_query=cyber+security"
-
-session=HTMLSession()
-res = session.get(url)
-res.html.render(timeout=8000,sleep=8)
-soup = bs(res.html, "html.parser")
-d=soup.find_all("ytd-video-renderer")
-for sa in d:
-    u=sa.find("a",{"class":"yt-simple-endpoint style-scope ytd-video-renderer"})
-    print(u)
+for i in range(5):
+    _name=cs.result()['result'][i]['channel']['name']
+    link=cs.result()['result'][i]['link']
+    dur=cs.result()['result'][i]['duration']
+    icon=cs.result()['result'][i]['channel']['thumbnails'][0]['url']
+    view=cs.result()['result'][i]['viewCount']['short']
+    url =icon.replace("s68", "s200" )
+    
+    print("------------------------------")
+    print(_name)
+    print(link)
+    print(dur)
+    print(view)
+    print(url)
