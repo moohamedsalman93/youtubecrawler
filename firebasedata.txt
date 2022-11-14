@@ -1,0 +1,240 @@
+home1
+
+
+program
+tp = [
+  'Html',
+  'Python',
+  'C++',
+  'C#',
+  'Java',
+  'C',
+  'Javascript',
+  'PHP',
+  'Reactjs',
+  'Angularjs',
+  'Flutter',
+  'Expressjs',
+  'Sql',
+  'MangoDB',
+  'Swift',
+  'Kotlin',
+  'Go',
+  'Solidity',
+  'Flask',
+  'Django',
+  'R',
+  'TypeScript',
+  'Vuejs',
+  'Nodejs',
+  'Shellscript',
+  '.Net',
+  'XB.Net',
+  'Asp.Net'
+]
+img = [
+  'html',
+  'python',
+  'cp',
+  'ch',
+  'java',
+  'c',
+  'javascript',
+  'php',
+  'reactjs',
+  'angularjs',
+  'flutter',
+  'expressjs',
+  'sql',
+  'mangodb',
+  'shift',
+  'kotlin',
+  'go',
+  'solidity',
+  'flask',
+  'django',
+  'r',
+  'typescript',
+  'vuejs',
+  'nodejs',
+  'linux',
+  'net',
+  'xbnet',
+  'aspnet'
+]
+
+
+adobe
+tp = [
+  'Photoshop',
+  'Premiere pro',
+  'Illustrator',
+  'After Effect',
+  'Adobe XD',
+  'lightroom',
+  'Animate',
+  'InDesign',
+  'Audition',
+  'Dreamweaver',
+  'Incopy',
+  'Photoshop Ex',
+  'Character animation',
+  'Adobe Aero'
+  ]
+img =[
+  'ps',
+  'pr',
+  'ai',
+  'ae',
+  'xd',
+  'lr',
+  'an',
+  'id',
+  'au',
+  'dw',
+  'ic',
+  'psexp',
+  'ch',
+  'ar'
+]
+
+
+cloud
+
+tp = [
+  'AWS',
+  'Azure',
+  'GCP',
+  'IBM',
+]
+img =[
+  'aws',
+  'azure',
+  'gcp',
+  'ibm',
+]
+
+game
+
+
+tp = [
+  'Unity',
+  'Unreal Engine',
+  'Golang',
+  'C#',
+  '3D modeling'
+]
+img =[
+  'unity',
+  'azure',
+  'golang',
+  'ch',
+  'modeling',
+]
+
+micro
+
+tp = [
+  'Word',
+  'Power Point',
+  'Exel'
+]
+img =[
+  'word',
+  'pp',
+  'xl',
+]
+
+animation
+
+
+tp = [
+  '3D Modeling',
+  'Blender',
+  'Maya',
+  'Canva']
+img =[
+  '3d',
+  'blender',
+  'maya',
+  'canva',
+]
+
+ui
+
+
+tp = [
+  'Figma',
+  'Adobe XD',
+  'Sketch',
+  'Invision',
+  'Zeplin',
+  'Balsamiq',
+  'Axure Rp',
+	'Webflow',
+'origami',
+'Photoshop'
+]
+img =[
+  'figma',
+  'xd',
+  'sketch',
+  'invision',
+'zeplin',
+'balsamiq',
+'axure',
+'webflow',
+'origami',
+'ps'
+]
+
+future
+
+tp = [
+  'AI',
+  'ML',
+  'Cyber Security',
+  'Data science',
+  'Network',
+  'Block chain',
+  'Bug-Hunter',
+]
+
+img =[
+  'ai',
+  'ml',
+  'cyber',
+  'ds',
+'net',
+'blc',
+'bh',
+
+
+framework
+
+tp = [
+  'Reactjs',
+  'Angularjs',
+  'Flutter',
+  'Expressjs',
+  'Flask',
+  'Django',
+  'Vuejs',
+  'Nodejs',
+  '.Net',
+  'VB.Net',
+  'Asp.Net'
+]
+img = [
+  'reactjs',
+  'angularjs',
+  'flutter',
+  'expressjs',
+  'flask',
+  'django',
+  'vuejs',
+  'nodejs',
+  'net',
+  'vbnet',
+  'aspnet'
+]
